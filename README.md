@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/VM-AX/Leetcode-Question/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/VM-AX/Leetcode-Question/tree/master/0217-contains-duplicate) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/VM-AX/Leetcode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
