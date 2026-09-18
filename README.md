@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VM-AX/Leetcode-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VM-AX/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VM-AX/Leetcode-Question/tree/master/0485-max-consecutive-ones) |
+| [1051-height-checker](https://github.com/VM-AX/Leetcode-Question/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VM-AX/Leetcode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VM-AX/Leetcode-Question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VM-AX/Leetcode-Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VM-AX/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VM-AX/Leetcode-Question/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/VM-AX/Leetcode-Question/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VM-AX/Leetcode-Question/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/VM-AX/Leetcode-Question/tree/master/1051-height-checker) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/VM-AX/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VM-AX/Leetcode-Question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/VM-AX/Leetcode-Question/tree/master/0073-set-matrix-zeroes) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/VM-AX/Leetcode-Question/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
